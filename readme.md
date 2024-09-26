@@ -22,7 +22,7 @@ cd portainer-simple-compose
 docker compose up -d
 ```
 
-4. ブラウザで`http://localhost:9000`にアクセスします。
+4. ブラウザで`http://localhost:9443`にアクセスします。
 5. Portainerの初期設定を行います。
 6. お楽しみください！
 7. コンテナーを停止する場合は、以下のコマンドを実行します。
